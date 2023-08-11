@@ -6,12 +6,29 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [KeyloggerScreenshot](https://github.com/Kill0geR/KeyloggerScreenshot)
-
+- 
 - 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kill0geR](https://github.com/Kill0geR)
 
 - 📫 How to reach me **killgergithub@gmail.com**
+
+<h3 align="left">Projects Stats</h3>
+<h5>KeyloggerScreenshot</h5>
+
+[![Downloads](https://pepy.tech/badge/KeyloggerScreenshot)](https://pepy.tech/project/KeyloggerScreenshot)
+
+<h5>CypherIt</h5>
+
+[![Downloads](https://pepy.tech/badge/CypherIt)](https://pepy.tech/project/CypherIt)
+
+<h5>ExportWifi</h5>
+
+[![Downloads](https://pepy.tech/badge/ExportWifi)](https://pepy.tech/project/ExportWifi)
+
+<h5>Pytheas22</h5>
+
+[![Downloads](https://pepy.tech/badge/Pytheas22)](https://pepy.tech/project/Pytheas22)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
