@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Fawaz Bashiru</h1>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kill0geR&label=Profile%20views&color=0e75b6&style=flat" alt="Kill0geR" /> </p>
+<div align="left">
+  <img src="https://profile-counter.glitch.me/Kill0geR/count.svg?"  />
+</div>
 
 - 🔭 I’m currently working on [KeyloggerScreenshot](https://github.com/Kill0geR/KeyloggerScreenshot)
 - 🌱 I’m currently learning **Deep Learning**
