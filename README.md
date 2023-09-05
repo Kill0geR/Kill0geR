@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/Kill0geR/count.svg?"  />
 </div>
 
-- 🔭 I’m currently working on Artificial Intelligent
+- 🔭 I’m currently working on Artificial Intelligents
 - 🌱 I’m currently learning **Deep Learning**
 - 💬 Ask me about **Anything related to python**
 - 📫 How to reach me **killgergithub@gmail.com**
