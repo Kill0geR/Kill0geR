@@ -55,13 +55,13 @@
 
 [![Downloads](https://static.pepy.tech/badge/CypherIt)](https://pepy.tech/project/CypherIt)
 
-<h5>ExportWifi</h5>
-
-[![Downloads](https://static.pepy.tech/badge/ExportWifi)](https://pepy.tech/project/ExportWifi)
-
 <h5>Pytheas22</h5>
 
 [![Downloads](https://static.pepy.tech/badge/Pytheas22)](https://pepy.tech/project/Pytheas22)
+
+<h5>ExportWifi</h5>
+
+[![Downloads](https://static.pepy.tech/badge/ExportWifi)](https://pepy.tech/project/ExportWifi)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">
 
